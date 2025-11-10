@@ -54,6 +54,7 @@ Tampilan Home Screen
   -Menggunakan gradasi lembut, bayangan (shadow), dan layout fleksibel agar tampil menarik di berbagai ukuran layar.
   
   -Tipografi tegas dan ikon berwarna cerah menambah kesan profesional dan user-friendly.
+
 🧠 Struktur Proyek
 
 <img width="229" height="185" alt="lib" src="https://github.com/user-attachments/assets/821851af-9cea-4632-ab0c-4db191224a22" />
