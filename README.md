@@ -18,8 +18,10 @@ Tampilan Splash Screen
 
     -Setelah 4 detik, aplikasi otomatis berpindah ke HomeScreen, menandakan siap digunakan tanpa interaksi pengguna.
 🎨 Desain Gradien Modern
+
     -Latar belakang menggunakan kombinasi warna biru muda dan cokelat pastel dengan efek gradasi lembut, menciptakan tampilan elegan dan nyaman dilihat.
 ⚡ Animasi Lembut dan Dinamis
+
     -Dibangun dengan AnimationController, FadeTransition, dan ScaleTransition, menghasilkan efek transisi halus pada logo dan teks saat muncul di layar.
 Tampilan Home Screen
 
@@ -28,20 +30,25 @@ Tampilan Home Screen
 🚀 Home Screen 
 
 🎯 Deskripsi Umum
+
     -Tampilan utama aplikasi menampilkan informasi keuangan pengguna secara modern dan interaktif. Desainnya menyerupai banking dashboard dengan fokus pada kemudahan akses dan visual yang menarik.
 
 💳 My Cards
+
    -Menampilkan beberapa kartu bank digital (BCA, Mandiri, BRI) dengan efek bayangan halus dan warna gradasi yang elegan.
    -Setiap kartu berisi nama bank, saldo, serta empat digit terakhir nomor rekening.
 
 🧭 Quick Access Menu
+
    -Terdapat grid ikon kategori seperti Health, Travel, Food, dan Event, yang berfungsi sebagai pintasan cepat ke fitur transaksi atau pengeluaran sesuai kategori.
 
 💸 Recent Transactions
+
    -Menampilkan daftar transaksi terbaru dengan ikon kategori, nama transaksi, dan jumlah nominal.
    -Transaksi pengeluaran ditandai merah, sedangkan pemasukan berwarna hijau, memudahkan pengguna membedakan arus kas.
 
 🧱 Desain Modern dan Responsif
+
   -Menggunakan gradasi lembut, bayangan (shadow), dan layout fleksibel agar tampil menarik di berbagai ukuran layar.
   -Tipografi tegas dan ikon berwarna cerah menambah kesan profesional dan user-friendly.
 🧠 Struktur Proyek
